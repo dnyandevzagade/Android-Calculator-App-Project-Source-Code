@@ -16,8 +16,10 @@ This is a beginner-friendly Android Calculator app project. The app was selected
 
 ## 📸 Screenshots
 
-<img src="screenshots/main_ui.png" width="300" />
-<img src="screenshots/history_ui.png" width="300" />
+<img width="406" height="830" alt="Screenshot 2025-07-18 161842" src="https://github.com/user-attachments/assets/d0aa851a-3e0c-47bf-b7a2-f63270635294" />
+
+<img width="344" height="750" alt="Screenshot 2025-07-18 162125" src="https://github.com/user-attachments/assets/aca0a2eb-3467-4d1c-a3f9-f4087dc08d41" />
+
 
 > (Replace with your own screenshots if needed)
 
